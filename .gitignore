@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# buck
+.buckconfig.local
+.buckd/
+.okbuck/
+.watchmanconfig
+buck-out/
+buckw
+BUCK
+.buckconfig
+.settings
+.buckjavaargs
